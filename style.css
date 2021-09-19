@@ -1,0 +1,31 @@
+body{
+    margin:0px;
+    background-image: url('fruit.jpeg');
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(240, 16, 83); 
+    text-align: center;
+
+}
+.container{
+    height:100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+.heading{
+    
+    color:white;
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.btn{
+    height:70px;
+    width:170px;
+    background:beige;
+    color: rgb(250, 7, 88);
+    border-radius: 60px;
+    font-weight: bolder;
+    font-size: large;
+}
